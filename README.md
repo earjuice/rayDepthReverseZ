@@ -8,7 +8,7 @@ This example demonstrates custom ray depth in Pre which is more efficient, less 
 The post technique, however, can utilize transparencies, volumetrics but is a little heavier on the gpu and requires rendering into an fbo beforehand. 
 
 this example uses cinder blocks:
-https://github.com/rezaali/Cinder-AppPaths
+https://github.com/rezaali/Cinder-AppPaths and 
 https://github.com/rezaali/Cinder-LiveCode
 
 you'll have to tweak apppaths and resources.h to get getAppSupportPath function to work properly or you could just remove the live-code feature..
